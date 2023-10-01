@@ -44,8 +44,6 @@ q();
 
 // 1.6 Assignment: Data Types
 
-
-
 // string
 var x = "Carson";
 var y = 'Spencer';
