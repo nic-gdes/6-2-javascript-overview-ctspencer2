@@ -49,7 +49,7 @@ var x = "Carson";
 var y = 'Spencer';
 
 // number
-var z = 25;
+var z = 21;
 
 // boolean
 var w = true;
@@ -67,4 +67,4 @@ var B = 3;
 var C = 5;
 var area = (B*A)/2;
 
-console.log ("area:", 6);
+console.log ("area:", area);
